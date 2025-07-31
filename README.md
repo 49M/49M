@@ -1,7 +1,7 @@
 ## Hello world!
 
 My name is Michal, I study Computer Science at UofT and build startups/projects on the side. 
-I'm interested in all things AI, full-stack and Data Science.
+I'm interested in all things AI, Full-Stack and Data Science.
 
 <!--
 **49M/49M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
