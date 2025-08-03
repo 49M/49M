@@ -1,8 +1,9 @@
 ## Hello world!
 
-My name is Michal, I study Computer Science at UofT and build startups/projects on the side. 
-I'm interested in all things AI, Full-Stack and Data Science.
-Software has the ability to simplify complex processes, help people connect, help create breakthroughs across all industries, and so much more. I want to be on the frontlines of that innovation.
+Hi, I'm Michal, I study Computer Science at UofT and am passionate about building startups and side projects. 
+I’m especially interested in AI, full-stack development, and data science.
+
+I believe software can simplify complexity, connect people, and drive innovation across every industry. I’m excited to be on the frontlines of that transformation.
 
 - 🔭 I’m working on: Insurie AI (Life Insurance AI Agent) and Wealthseed (The Financial Literacy Platform For Students)
 - 🌱 I’m learning: LangGraph and Using Vector Databases
