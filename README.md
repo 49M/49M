@@ -15,6 +15,7 @@ I believe software can simplify complexity, connect people, and drive innovation
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 <!--
 **49M/49M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
