@@ -5,7 +5,7 @@ I’m especially interested in AI, full-stack development, and data science.
 
 I believe software can simplify complexity, connect people, and drive innovation across industries. I’m excited to be on the frontlines of that transformation.
 
-- 🔭 I’m working on: Insurie AI (Life Insurance AI Agent) and Wealthseed (The Financial Literacy Platform For Students)
+- 🔭 I’m working on: Developian (Transforming visions to goals to realities with AI)
 - 🌱 I’m learning: LangGraph and Using Vector Databases
 - 💬 Ask me about: Full-Stack Development, OOP Design, and Data Structures & Algorithms
 
