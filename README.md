@@ -3,7 +3,7 @@
 Hi, I'm Michal, I study Computer Science at UofT and am passionate about building startups and side projects. 
 I’m especially interested in AI, full-stack development, and data science.
 
-I believe software can simplify complexity, connect people, and drive innovation across industries. I’m excited to be on the frontlines of that transformation.
+I love creating software which simplifies processes, connects people, and drives innovation across industries.
 
 - 🔭 I’m working on: Developian (Transforming visions to goals to realities with AI)
 - 🌱 I’m learning: LangGraph and Using Vector Databases
